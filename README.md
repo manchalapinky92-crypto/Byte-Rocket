@@ -1,2 +1,4 @@
-# Byte-Rocket
-Byte Rocket is a collaborative platform that helps students, developers, and innovators transform ideas into real-world applications. The platform provides project management tools, mentorship opportunities, learning resources, and community support to accelerate development from concept to launch
+Project: AquaSafe AI — Smart Water
+Tagline: “Know your water before you drink it.”
+Problem
+People may use water without knowing whether it is potentially contaminated. Traditional water testing can be expensive, slow, or unavailable in rural and underserved areas.
